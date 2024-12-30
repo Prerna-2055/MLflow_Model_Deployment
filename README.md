@@ -15,12 +15,7 @@ Forest Fires
 
 5. Number of Attributes: 12 + output attribute
   
-   Note: several of the attributes may be correlated, thus it makes sense to apply some sort of
-   feature selection.
-
 6. Attribute information:
-
-   For more information, read [Cortez and Morais, 2007].
 
    1. X - x-axis spatial coordinate within the Montesinho park map: 1 to 9
    2. Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
