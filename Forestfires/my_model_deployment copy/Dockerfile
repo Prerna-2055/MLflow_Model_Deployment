@@ -2,7 +2,7 @@
 FROM python:3.12.3
 
 # Set the working directory in the container
-WORKDIR /my_model_deployment2
+WORKDIR /my_model_deployment copy
 
 # Copy requirements.txt into the container
 WORKDIR /app
